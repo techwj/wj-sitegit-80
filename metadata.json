@@ -1,0 +1,59 @@
+{
+  "siteId": "off-the-beaten-path-attractions",
+  "generatedAt": "2026-06-02T19:22:13.157588",
+  "categories": [
+    "beginner-off-the-beaten-path-attractions",
+    "advanced-off-the-beaten-path-attractions",
+    "tips-off-the-beaten-path-attractions",
+    "history-off-the-beaten-path-attractions",
+    "trending-off-the-beaten-path-attractions",
+    "tutorials-off-the-beaten-path-attractions"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-off-the-beaten-path-attractions",
+      "category_name": "Beginner Off-the-Beaten-Path Attractions"
+    },
+    {
+      "category_slug": "advanced-off-the-beaten-path-attractions",
+      "category_name": "Advanced Off-the-Beaten-Path Attractions"
+    },
+    {
+      "category_slug": "tips-off-the-beaten-path-attractions",
+      "category_name": "Off-the-Beaten-Path Attractions Tips"
+    },
+    {
+      "category_slug": "history-off-the-beaten-path-attractions",
+      "category_name": "Off-the-Beaten-Path Attractions History"
+    },
+    {
+      "category_slug": "trending-off-the-beaten-path-attractions",
+      "category_name": "Trending Off-the-Beaten-Path Attractions"
+    },
+    {
+      "category_slug": "tutorials-off-the-beaten-path-attractions",
+      "category_name": "Off-the-Beaten-Path Attractions Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "off-the-beaten-path-attractions",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Off-the-Beaten-Path Attractions Central",
+    "articles_per_row": 4
+  }
+}
